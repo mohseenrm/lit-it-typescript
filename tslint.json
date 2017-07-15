@@ -36,7 +36,8 @@
         ],
         "max-line-length": [
             false
-        ]
+        ],
+        "no-default-export": false
     },
     "rulesDirectory": []
 }
